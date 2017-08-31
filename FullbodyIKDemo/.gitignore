@@ -1,0 +1,13 @@
+﻿Binaries/
+Build/
+Intermediate/
+Saved/
+
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.dll
+*.pdb
+*.db
+*.opendb

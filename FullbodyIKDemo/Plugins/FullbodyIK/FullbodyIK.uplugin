@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "FullbodyIK",
+	"Description": "",
+	"Category": "Animation",
+	"CreatedBy": "@HogeTatu",
+	"CreatedByURL": "http://hogetatu.hatenablog.com/",
+	"DocsURL": "https://github.com/HogeTatu/UE4Plugin_FullbodyIK",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/HogeTatu/UE4Plugin_FullbodyIK",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "FullbodyIK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "FullbodyIKEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
